@@ -1,6 +1,6 @@
-# Ciao sono ....
+# Ciao sono Simone
 
-## Studente dell'isiss Scapra di Motta
+## Studente dell'isiss Scarpa di Motta
 
 i miei interessi sono:
 - le auto 
